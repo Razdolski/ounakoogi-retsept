@@ -1,0 +1,33 @@
+td, th {
+  border: 1px solid #cdd6f4;
+  text-align: left;
+  padding: 8px;
+}
+
+img {
+    font-size: xx-large;
+    max-width: 600px;
+    border-radius: 10px;
+    background: #1e1e2e;
+    color: #cdd6f4;
+    border: 4px solid #a6adc8;
+    box-shadow:
+        6px 6px 0 #a6adc8,
+        -6px -6px 0 #a6adc8;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+    font-family: "Roboto Slab", system-ui;
+    font-weight: 400;
+    font-style: normal;
+		color: #cdd6f4;
+    margin: 0;
+		margin-left: 32px;
+    background: #1e1e2e;
+}
